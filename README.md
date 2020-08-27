@@ -58,7 +58,7 @@ If you pay attention at the frequency of the numbers, you'll realize that they f
 
 <img src="graph/graph.png">
 
-_Notice how the bell curves are **exactly the same.** The only difference is the center of the curves. _
+_Notice how the bell curves are **exactly the same.** The only difference is the center of the curves._
 
 **The center of the curves represents the mean or averge and the averege is that players rating.**
 
