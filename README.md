@@ -30,7 +30,7 @@ _Formula A:_
 _Formula B:_
 
 <!--$\huge E_b=1-E_a$-->
-<img src="formulas/formula2.png">
+<img src="formulas/formula3.png">
 
 **Don't get disencouraged by how the formulas look!** We'll go through this step by step.
 
@@ -82,11 +82,11 @@ So in the curve, the area to the right of 0 would be 10 times the area of the cu
 
 So, If Player A has a rating of _R<sub>a</sub>_, and Player B has a rating of _R<sub>b</sub>_, the exact formula for the expected score of Player A is:
 
-<img src="formulas/formula2.png">
+<img src="formulas/formula3.png">
 
 You can simmilarly look at the probability for Player B to win by:
 
-<img src="formulas/formula3.png">
+<img src="formulas/formula2.png">
 
 With this, you can predict who will win the game.
 
