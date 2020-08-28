@@ -79,3 +79,27 @@ _Basically, the Elo Rating Algorithm is designed so that if a player has a ratin
 So in the curve, the area to the right of 0 would be 10 times the area of the curve to the left of 0.
 
 **_If you turn that into a formula, this is the formula that you would get:_**
+
+<img src="formulas/formula2.png">
+
+With this, you can predict who will win the game.
+
+**EXAMPLE:** _If the probability of winning is 1, your definitly going to win the game. If the probability of winning is 0, your definitly going to win the game._
+
+**IMPORTANT:** probability of winning is 0.5 (half), then your going to win as many games as you loose. Basically a draw.
+
+Now, lets say that:
+
+| Win | Loose | Draw |
+| --- | ----- | ---- |
+| 1   | 0     | 0.5  |
+
+**Then, the probability can be used as the expected score.**
+
+> It can be wierd like if you have a probability of **0.75**.
+
+> _This means that you could win 75% of the games._
+
+> _But it also means that you coud win 50% of the games and draw the other 50% of the games._
+
+> **Either way, we would say the expected score is 0.75**
