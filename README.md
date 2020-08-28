@@ -72,4 +72,10 @@ If you plot that, you also get a bell curve. **It's called a logistic curve.**
 
 <img src="graph/graph2.png">
 
-The idea is that the more of the curve is to the right of
+**The idea is that the more of the curve is to the right of 0, the more likely that player is to win.**
+
+_Basically, the Elo Rating Algorithm is designed so that if a player has a rating that is 400 points more than another player, they are 10 times more likely to win._
+
+So in the curve, the area to the right of 0 would be 10 times the area of the curve to the left of 0.
+
+**_If you turn that into a formula, this is the formula that you would get:_**
