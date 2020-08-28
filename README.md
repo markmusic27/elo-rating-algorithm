@@ -2,7 +2,7 @@
 
 ## ⏳ Elo Rating Algorithm History
 
-The Elo Rating algorithm, created by Arpad Elo, is one of the most common algoritms used for rating because of the logic & functionality behind it.
+The Elo Rating algorithm, created by Arpad Elo _(a Hungarian-Amerian Physics Professor)_, is one of the most common algoritms used for rating because of the logic & functionality behind it.
 
 It is used by developers that want to rank chess players to college students wanting to rank girls _(Mark Zucherberg's Face Smash)._
 
@@ -80,11 +80,17 @@ So in the curve, the area to the right of 0 would be 10 times the area of the cu
 
 **_If you turn that into a formula, this is the formula that you would get:_**
 
+So, If Player A has a rating of _R<sub>a</sub>_, and Player B has a rating of _R<sub>b</sub>_, the exact formula for the expected score of Player A is:
+
 <img src="formulas/formula2.png">
+
+You can simmilarly look at the probability for Player B to win by:
+
+<img src="formulas/formula3.png">
 
 With this, you can predict who will win the game.
 
-**EXAMPLE:** _If the probability of winning is 1, your definitly going to win the game. If the probability of winning is 0, your definitly going to win the game._
+**EXAMPLE:** _If the probability of winning is 1, your going to win the game. If the probability of winning is 0, your going to win the game._
 
 **IMPORTANT:** probability of winning is 0.5 (half), then your going to win as many games as you loose. Basically a draw.
 
@@ -98,8 +104,20 @@ Now, lets say that:
 
 > It can be wierd like if you have a probability of **0.75**.
 
-> _This means that you could win 75% of the games._
+> _This means that you could win 75% of the games and loose the other 25%._
 
 > _But it also means that you coud win 50% of the games and draw the other 50% of the games._
 
 > **Either way, we would say the expected score is 0.75**
+
+**Whenever a player does better than expected, their rating will increse. The more surprising that the win is, the more points they will get. Up to a max of 32 points.**
+
+_Nothing special about 32, just a choice that they made._
+
+**The same way, if a player does worse than expected, their rating will decrease up to 32 poibts.**
+
+---
+
+## 🛥 Formula 2 (The Update Formula)
+
+Throughout a tournament, a players raiting **is updated using an update formula.**
