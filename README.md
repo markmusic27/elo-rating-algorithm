@@ -140,7 +140,7 @@ _**b) Have a couple laughs**_
 
 This project originated when my friend asked me to bet on which team was going to with the 2020, NBA title. I said _"Sure!"_, and proceeded to overcomplicate my life since I knew very little _(basically nothing)_ about basketball.
 
-The idea was to create a program that would run every possible scenerio for which team could win depending on how many games the team had won. Of couse, it would have been 10 times more effective to just do reseach and make an educated guess, but there was one, criticall problem with that take. _It was simply not a cool enough option._
+The idea was to create a program that would run every possible scenerio for which a team could win depending on how many games the team had won. Of couse, it would have been 10 times more effective to just do reseach and make an educated guess, but there was one, criticall problem with that take. _It was simply not a cool enough option._
 
 I knew I wanted to include the [The Social Network](https://www.imdb.com/title/tt1285016/)'s rating algorithm but instead of ranking girls, I would rank teams. So I looked up the formula online and **vuala**, there it was, The Elo Rating System in all its glory.
 
