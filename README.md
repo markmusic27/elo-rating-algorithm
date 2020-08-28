@@ -56,7 +56,7 @@ This means that every player has the potencial of playing at a range of differen
 
 If you pay attention at the frequency of the numbers, you'll realize that they form bell curves.
 
-<img src="graph/graph.png">
+<img src="graph/graph1.png">
 
 _Notice how the bell curves are **exactly the same.** The only difference is the center of the curves._
 
@@ -64,4 +64,12 @@ _Notice how the bell curves are **exactly the same.** The only difference is the
 
 ---
 
-## 🏀 Formula 1 (Probability of The Game Win)
+## 🏀 Formula 1 (Probability of Winning The Game)
+
+To know this, you need to look at the _**frequency of the differences between the two players.**_
+
+If you plot that, you also get a bell curve. **It's called a logistic curve.**
+
+<img src="graph/graph2.png">
+
+The idea is that the more of the curve is to the right of
