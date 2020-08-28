@@ -25,7 +25,7 @@ _Formula A:_
 
 <!-- $\huge E_a=\frac{1}{1+10(^{R_b-R_a})^{/400}}$ -->
 
-<img src="formulas/formula1.png">
+<img src="formulas/formula4.png">
 
 _Formula B:_
 
@@ -68,7 +68,7 @@ _Notice how the bell curves are **exactly the same.** The only difference is the
 
 To do this, we need to find the _**frequency of the differences between the two players.**_
 
-If you plot that, you also get a bell curve. **It's called a logistic curve.**
+If you plot that, you get a bell curve. **It's called a logistic curve.**
 
 <img src="graph/graph2.png">
 
@@ -88,11 +88,11 @@ You can simmilarly look at the probability for Player B to win by:
 
 <img src="formulas/formula2.png">
 
-With this, you can predict who will win the game.
+With this, you can predict who will win.
 
-**EXAMPLE:** _If the probability of winning is 1, your going to win the game. If the probability of winning is 0, your going to win the game._
+**EXAMPLE:** _If the probability of winning is 1, your going to win the game. If the probability of winning is 0, your going to loose the game._
 
-**IMPORTANT:** probability of winning is 0.5 (half), then your going to win as many games as you loose. Basically a draw.
+**IMPORTANT:** If the probability of winning is 0.5 (half), then your going to win as many games as you loose. Basically a draw.
 
 Now, lets say that:
 
