@@ -110,14 +110,46 @@ Now, lets say that:
 
 > **Either way, we would say the expected score is 0.75**
 
+---
+
+## 🛥 Formula 2 (The Update Formula)
+
 **Whenever a player does better than expected, their rating will increse. The more surprising that the win is, the more points they will get. Up to a max of 32 points.**
 
 _Nothing special about 32, just a choice that they made._
 
 **The same way, if a player does worse than expected, their rating will decrease up to 32 poibts.**
 
+Throughout a tournament, a players raiting **is updated using an update formula.**
+
+_This is how said formula looks:_
+
+<img src="formulas/formula4.png">
+
 ---
 
-## 🛥 Formula 2 (The Update Formula)
+## ☝️ Before you leave...
 
-Throughout a tournament, a players raiting **is updated using an update formula.**
+**The next few paragraphs, I will explain how and why I did this. Keep reading in if you want to:**
+
+_**a) Feel bad for me.**_
+
+_**b) Have a couple laughs**_
+
+**_c) Be thankfull that you didn't have to do it yourself._**
+
+This project originated when my friend asked me to bet on which team was going to with the 2020, NBA title. I said _"Sure!"_, and proceeded to overcomplicate my life since I knew very little _(basically nothing)_ about basketball.
+
+The idea was to create a program that would run every possible scenerio for which team could win depending on which games they had already won. Of couse, it would have been 10 times more effective to just do reseach and make an educated guess, but there was one, criticall problem with that take. _It was simply not a cool enough option._
+
+I knew I wanted to include the [The Social Network](https://www.imdb.com/title/tt1285016/)'s rating algorithm but instead of ranking girls, I would rank teams. So I looked up the formula online and **vuala**, there it was, The Elo Rating System in all its glory.
+
+I then watched a couple videos, read some medium articles and proceeded to rethink my life decisions. After some close encounters with mental breakdowns, I ran the command which would determain if the last 48 hours of my life were worth it...
+
+```
+ts-node algorithm.ts
+```
+
+The next 5 senconds felt like they would never end. I closed my eyes and of course it didn't work. So I was back to the drawing board. And after many tries and **soooo mannyyyyyy erorrrrssssss**, it worked.
+
+### Built and maintained with ❤️ by [@markmusic2727](https://www.twitter.com/MarkMusic2727)
