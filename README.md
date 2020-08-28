@@ -150,6 +150,6 @@ I then watched a couple videos, read some medium articles and proceeded to rethi
 ts-node algorithm.ts
 ```
 
-The next 5 senconds felt like they would never end. I closed my eyes and of course it didn't work. So I was back to the drawing board. And after many tries and **soooo mannyyyyyy erorrrrssssss**, it worked.
+The next 5 seconds felt like they would never end. I closed my eyes and of course it didn't work. So I was back to the drawing board. And after many tries and **soooo mannyyyyyy erorrrrssssss**, it worked.
 
 ### Built and maintained with ❤️ by [@markmusic2727](https://www.twitter.com/MarkMusic2727)
