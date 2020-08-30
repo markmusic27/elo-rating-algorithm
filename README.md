@@ -4,7 +4,7 @@
 
 The Elo Rating algorithm, created by Arpad Elo _(a Hungarian-Amerian Physics Professor)_, is one of the most common algoritms used for rating because of the logic & functionality behind it.
 
-It is used by developers that want to rank chess players to college students wanting to rank girls _(Mark Zucherberg's Face Smash)._
+It is used by developers wanting to rank chess players to college students wanting to rank girls _(Mark Zucherberg's Face Smash)._
 
 ![Markdown Logo](https://miro.medium.com/max/559/1*FNfXGwHiRJ9wCjN502CX2w.jpeg)
 
