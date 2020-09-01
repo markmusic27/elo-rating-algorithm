@@ -66,7 +66,7 @@ _Notice how the bell curves are **exactly the same.** The only difference is the
 
 ## 🏀 Formula 1 (Probability of Winning The Game)
 
-To do this, we need to find the _**frequency of the differences between the two players.**_
+To get the probability of a player winning a game, we need to find the _**frequency of the differences between the two players.**_
 
 If you plot that, you get a bell curve. **It's called a logistic curve.**
 
