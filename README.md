@@ -136,7 +136,7 @@ _This is how said formula looks:_
 
 ## ☝️ Before you leave...
 
-**The next few paragraphs, I will explain how and why I did this. Keep reading in if you want to:**
+**In the next few paragraphs, I will explain how and why I did this. Keep reading in if you want to:**
 
 _**a) Feel bad for me.**_
 
