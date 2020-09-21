@@ -32,7 +32,7 @@ _Formula B:_
 <!--$\huge E_b=1-E_a$-->
 <img src="formulas/formula3.png">
 
-**Don't get disencouraged by how the formulas look!** We'll go through this step by step.
+**Don't get discouraged by how the formulas look!** We'll go through this step by step.
 
 ---
 
