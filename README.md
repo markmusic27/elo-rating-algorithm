@@ -1,4 +1,4 @@
-# 🔗 Elo Rating Algorithm
+# 🔔 Elo Rating Algorithm
 
 ## ⏳ Elo Rating Algorithm History
 
