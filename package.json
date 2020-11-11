@@ -1,0 +1,20 @@
+{
+  "name": "elo_rating_algorithm",
+  "version": "1.0.0",
+  "description": "A powerful tool for manipulating the world-famous Elo Rating Algorithm.",
+  "main": "algorithm/javascript/algorithm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markmusic2727/elo_rating_algorithm.git"
+  },
+  "keywords": [],
+  "author": "Mark Music <markmusic999@gmail.com> (https://www.zyndicate.app/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markmusic2727/elo_rating_algorithm.git/issues"
+  },
+  "homepage": "https://github.com/markmusic2727/elo_rating_algorithm.git#readme"
+}
