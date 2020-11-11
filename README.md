@@ -144,7 +144,7 @@ _**b) Have a couple laughs**_
 
 **_c) Be thankfull that you didn't have to do it yourself._**
 
-This project originated when my friend asked me to bet on which team was going to with the 2020, NBA title. I said _"Sure!"_, and proceeded to overcomplicate my life since I knew very little _(basically nothing)_ about basketball.
+This project originated when my friend ([Filippo](https://twitter.com/filippofonseca)) asked me to bet on which team was going to with the 2020, NBA title. I said _"Sure!"_, and proceeded to overcomplicate my life since I knew very little _(basically nothing)_ about basketball.
 
 The idea was to create a program that would run every possible scenerio for which a team could win depending on how many games the team had won. Of couse, it would have been 10 times more effective to just do reseach and make an educated guess, but there was one, criticall problem with that take. _It was simply not a cool enough option._
 
