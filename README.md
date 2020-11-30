@@ -158,4 +158,4 @@ ts-node algorithm.ts
 
 The next 5 seconds felt like they would never end. I closed my eyes and of course it didn't work. So I was back to the drawing board. And after many tries and **soooo mannyyyyyy erorrrrssssss**, it worked.
 
-### Built and maintained with ❤️ by [@markmusic2727](https://www.twitter.com/MarkMusic2727) & [@filippofonseca](https://www.twitter.com/FilippoFonseca)
+### Built and maintained with ❤️ by [@markmusic2727](https://www.twitter.com/MarkMusic2727)
