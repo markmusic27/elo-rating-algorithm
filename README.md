@@ -1,6 +1,6 @@
 # 🔔 Elo Rating Algorithm
 
-## ⏳ Elo Rating Algorithm History
+### ⏳ Elo Rating Algorithm History
 
 The Elo Rating algorithm, created by Arpad Elo _(a Hungarian-Amerian Physics Professor)_, is one of the most common algoritms used for rating because of the logic & functionality behind it.
 
@@ -12,7 +12,7 @@ It is used by developers wanting to rank chess players to college students wanti
 
 ---
 
-## 🔧 Demystifying The Algorithm
+### 🔧 Demystifying The Algorithm
 
 The algorith is **based on two key formulas**.
 
@@ -36,7 +36,7 @@ _Formula B:_
 
 ---
 
-## 🧠 Understanding the Algorithm
+### 🧠 Understanding the Algorithm
 
 When Arpad Elo first invented the algorithm, his idea was to asume that **each players ability forms a bell curve.**
 
@@ -64,7 +64,7 @@ _Notice how the bell curves are **exactly the same.** The only difference is the
 
 ---
 
-## 🏀 Formula 1 (Probability of Winning The Game)
+### 🏀 Formula 1 (Probability of Winning The Game)
 
 To get the probability of a player winning a game, we need to find the _**frequency of the differences between the two players.**_
 
@@ -112,7 +112,7 @@ Now, lets say that:
 
 ---
 
-## 🛥 Formula 2 (The Update Formula)
+### 🛥 Formula 2 (The Update Formula)
 
 **Whenever a player does better than expected, their rating will increse. The more surprising that the win is, the more points they will get. Up to a max of 32 points.**
 
@@ -134,7 +134,7 @@ _This is how said formula looks:_
 
 ---
 
-## ☝️ Before you leave...
+### ☝️ Before you leave...
 
 **In the next few paragraphs, I will explain how and why I did this. Keep reading in if you want to:**
 
