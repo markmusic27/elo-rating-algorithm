@@ -126,7 +126,7 @@ _This is how said formula looks:_
 
 <img src="formulas/formula4.png">
 
-**For Example:** Let's say that player A has a rating of 1656 and Player B has a rating of 1763. Since player A is the weaker player, he's expected to loose. His expexted win is 0.35 . However, he actually wins the game.
+**For Example:** Let's say that player A has a rating of 1656 and Player B has a rating of 1763. Since player A is the weaker player, he's expected to loose. His expected win is 0.35 . However, he actually wins the game.
 
 **_If this was the case, we would apply the formula like this:_**
 
